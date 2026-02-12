@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "aero.sita.mobile.digital.identity",
+      "sha256_cert_fingerprints": [
+        "A3:59:BE:2F:5F:5A:A0:54:69:14:B3:7B:0B:EB:EC:7B:14:C4:A0:FA:D4:74:44:2F:3D:49:15:61:6F:71:82:EF"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "aero.sita.mobile.digital.identity.dev",
+      "sha256_cert_fingerprints": [
+        "A3:59:BE:2F:5F:5A:A0:54:69:14:B3:7B:0B:EB:EC:7B:14:C4:A0:FA:D4:74:44:2F:3D:49:15:61:6F:71:82:EF"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "aero.sita.kmp.digital.identity",
+      "sha256_cert_fingerprints": [
+        "B1:B8:E9:67:A5:05:3B:65:C1:F8:F8:4B:E3:11:D4:5B:7C:53:C5:42:E3:C2:37:FC:E2:CE:E1:43:10:1F:02:76"
+      ]
+    }
+  }
+]
