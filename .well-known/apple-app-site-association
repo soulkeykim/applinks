@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Q7292T4H26.aero.sita.mobile.digital.identity",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
